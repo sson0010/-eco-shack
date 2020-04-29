@@ -1,2 +1,2 @@
-# -eco-shack
+# eco-shack
 # Net zero carbon emissions
